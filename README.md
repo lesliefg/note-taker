@@ -43,6 +43,7 @@
 ## Credits
 - Starter Code by Xandromus [https://github.com/coding-boot-camp/miniature-eureka]
 - Back end code written by Leslie
+- uniquid npm [https://www.npmjs.com/package/uniqid]
 
 ## Licenses
 - This project has a MIT license. To learn more about this license type click the license button at the top of the README.
