@@ -11,10 +11,12 @@
 * [Questions](#questions)
 * [Credits](#credits)
 * [Licenses](#license)
-* [Screenshots]{#screenshots}
+* [Screenshots](#screenshots)
 
 ## Description
 - A simple webpage to help keep track of notes with features to add and delete notes,all using ExpressJS.
+- Deployed Heroku link [https://obscure-badlands-24402.herokuapp.com/notes]
+- GitHub Repo [https://github.com/lesliefg/note-taker]
 
 ## Installation
 - Visit the GitHub repo linked below in Usage and clone it to your local storage by downloading a zip or importing using GitHub to your own repo.
@@ -49,4 +51,6 @@
 - This project has a MIT license. To learn more about this license type click the license button at the top of the README.
 
 ## Screenshots 
-[tba]
+![alt text](/assets/index.png)
+![alt text](/assets/notes.png)
+![alt text](/assets/tutorial.gif)
